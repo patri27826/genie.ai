@@ -1,0 +1,17 @@
+*.sh
+node_modules
+*.md
+*.woff
+*.ttf
+.vscode
+.idea
+dist
+/public
+/build
+/docs
+.husky
+.local
+/bin
+.eslintrc.js
+src/assets
+pnpm-lock.yaml

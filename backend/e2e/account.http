@@ -1,0 +1,21 @@
+@host=http://localhost:8080
+
+### Login
+
+# @name login
+POST {{host}}/api/user/login
+accept: application/json
+Content-Type: application/json
+
+{
+    "id_token": ""
+}
+
+### Verify Token
+@access_token =
+
+# @name verifyToken
+POST {{host}}/api/user/authorized
+accept: application/json
+Authorization: Bearer {{access_token}}
+Content-Type: application/json
