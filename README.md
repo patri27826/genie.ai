@@ -10,8 +10,9 @@ $ docker-compose up --build
 ## Run the frontend
 1. Install [pnpm](https://pnpm.io/zh-TW/)
 ```console
-pnpm install
-pnpm start
+$  cd frontend
+$  pnpm install
+$  pnpm start
 ```
 
 ## Run the backend
