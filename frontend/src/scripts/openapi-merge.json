@@ -1,8 +1,0 @@
-{
-    "inputs": [
-      {
-        "inputFile": "./doc/openapi/account_api.yaml"
-      }
-    ],
-    "output": "./doc/openapi/_merge_api.yaml"
-  }
