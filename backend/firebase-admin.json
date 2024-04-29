@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "progress-tracker-417117",
+    "private_key_id": "f0e886fcaf34e7fbd67a7e2581ae655f51ddedef",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDHX6DJgAt7dK7y\nSyw/IrQXwbH4ph5nlVQLvH+bsMdBHQio25rYHS4mX05sl56zkDyw9gkZc/N3wIkQ\n25z2mhhLWQFXB7JA7W8S3iOcTvmJi4usdJhym4cvWg1INk9XLUDNrCtA6JM5VemU\nPL2cO+TG9VKI2f2DS4S9Y33FO16miW5FykRuSwFpWBZkl5ivjUonOhhbtU3IIAvX\n+EJlJvpMQiK06iqN44JxCWjD8mnUGHrtRwJoNea7tNLGzu4P+blHrSVDz5tRJ3YX\nOCSkxHfLRphvBzypepFxr3WrVsxLkvhLr84nhHu1gpf16x2iZfs1NVp878jTYBwc\nUvNrxbNbAgMBAAECggEAWS0XTHmm6SIATGS+VkEN/6BGG/sll1xOGu/Fvhw8i43S\nfUC4yliG92fiuqS4ugVWeCqcWFOqP1KRnEY2t4CmRDF77XMGUo9BAtX0ZKpYaCLQ\nJyOBuqWBOndTgIy2QT5/AV+0exRsIZWhZAolH1gU1L8PGyIyCAODzHhPXaRYCjGb\n5tUzpC+JO7UVMDSvh4yIf4Aoq1BB1YDBdFB2HTqKRVxWfgLQFmwwoXyNeIcazyJL\nC2GoRcZuYhdOfWGAQgBee5rm/8ggL3uuxM7XStU5gMF0BOyjCEl+h3mGdqOAUuuZ\nvTo76F9zZ9UZ7gFfU567uNwgTLgyc4ZpPB2NMXCJaQKBgQD+bNM59vR+jJSayYWz\ntxasbfojQPQXGBJsUBETtSc1voib5wGBBJreq1/WbrdvXKTeU7gjqC+ywlwZGazM\nCqdDWuXTX9+omxBDMH96U9FS9R4fKYKzeY+9An6wG+76N94QpoqrNTamkZZk8E8W\nkeheiez794Dj4eMuwR1nw57DMwKBgQDIm5DEUWHKcRStFL75py3CWI4CPC5+tTxO\nhpJtcURvz+Uh81dHuhvIA2VHTjVP3cOmVNkZzNEJ1hNz+aUQWEXpRMHz0t8fuJx9\nuinpcmOThWGGcTeY0xiz0y444EDU6D8lMrJvC+XZO9RlDaipXt7TpMPDZSfHT0iV\nJYc3LBLPOQKBgQDYw6cCz6Bm4ScK6X78KpUqu1hOCNztgBjSJzUlcUXCyF5jVWE2\nptG7vI6ehx3Jx0jAEtvjpTteNbF5wSIzhTAUdrEwcZKAd/xXAk7ZzeedojDTo+4z\nMvJ/ukxthp8Il+iejwW98ExrhcZ4oTUAqbcsNJ6v3aL2hFGmV+nRqhzteQKBgEu5\nxZ0F53dG1no7gZe2DuT1Dq4zT43PFjPCQtYDUsUuYh09wW23CDOpbHrNP/ylBuzr\nzIQbt7ER2YgG7dNMrx9OMDS9HjLYOmKPerC/2GzghZ79b/JFhWakSid4J6D3Bpch\nGxAmGp61Igj/bfJ5eH3GDYvdzHVFLW33m6ItBfCpAoGALrYGitiyqSpxNBVErxvZ\n+N8NIuFhgp6f01nh9NI3+1DJPIJYPg6ucjWq/eYwPjU+QCKIdWjRpeuaPYozI6C6\n+rHgt2NkmsVGyVYt2waDO/m/EN5F4mgCxMAvSQDxbLZnq88L0AwTtQrNBb7MYnmc\nMKTqS4pmr3khBNVvzsvW0lw=\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-hze1z@progress-tracker-417117.iam.gserviceaccount.com",
+    "client_id": "114899006394172906300",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-hze1z%40progress-tracker-417117.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+}
