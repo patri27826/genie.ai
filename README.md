@@ -1,4 +1,4 @@
-# Ginny AI
+# Genie AI
 
 To use the application, follow the outlined steps:
 
